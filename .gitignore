@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Data files (IMPORTANT - don't push real data)
+data/raw_data/
+data/*.csv
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
